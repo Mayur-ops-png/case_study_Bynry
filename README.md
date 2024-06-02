@@ -1,5 +1,5 @@
 # bar
-
+Case study for BYNRY 
 A new Flutter project.
 
 ## Getting Started
