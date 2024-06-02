@@ -1,6 +1,7 @@
 # bar
 Case study for BYNRY 
 A new Flutter project.
+![login screen](https://github.com/Mayur-ops-png/case_study_Bynry/assets/99834461/8272c26b-048b-4d91-a30e-0586f1e1012b)
 
 ## Getting Started
 
